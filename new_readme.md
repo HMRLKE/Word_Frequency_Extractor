@@ -13,11 +13,15 @@ Before running `wwf.py`, make sure that you have the following installed:
 
 To run `wwf.py`, open a terminal and navigate to the directory where the script is located. Then, run the following command:
 
-`python `wwf.py` [language code]`
+`python wwf.py [language code]`
 
-Replace `[language code]` with the language code of the Wiktionary data you want to download. For example, to download Hungarian Wiktionary data, you would use the following command:
+Replace `[language code]` with the language code of the Wiktionary data you want to download. 
 
-e.g.: `python `wwf.py` hu`
+The list of possible `[language codes]` can be found in the [Basic list of Wikipedia table, in the "WP code" column] (https://en.wikipedia.org/wiki/List_of_Wikipedias)
+
+For example, to download Hungarian Wiktionary data, you would use the following command:
+
+`python wwf.py hu`
 
 This will execute the two bash scripts with the language code `hu` substituted into them, resulting in the latest pages and articles for Hungarian Wiktionary being downloaded and a word frequency file for Hungarian being generated.
 
