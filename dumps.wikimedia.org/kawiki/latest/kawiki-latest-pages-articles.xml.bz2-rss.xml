@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+        <channel>
+                <title>pages-articles.xml.bz2</title>
+                <link>http://download.wikimedia.org/kawiki/20220301</link>
+                <description>Wikimedia dump updates for kawiki</description>
+                <item>
+                        <title>http://download.wikimedia.org/kawiki/20220301</title>
+                        <link>http://download.wikimedia.org/kawiki/20220301</link>
+                        <description>&lt;a href="http://download.wikimedia.org/kawiki/20220301/kawiki-20220301-pages-articles.xml.bz2"&gt;kawiki-20220301-pages-articles.xml.bz2&lt;/a&gt;</description>
+                        <pubDate>Wed, 02 Mar 2022 14:35:22 GMT</pubDate>
+                </item>
+        </channel>
+</rss>
