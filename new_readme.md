@@ -11,7 +11,7 @@ Before running `wwf.py`, make sure that you have the following installed:
 
 ## Using a virtual environment
 
-To create a separate virtual environment for these scripts, the steps are the following (assuming the Conda package manager is installed):
+To create a separate virtual environment for the script, run the following commands in the terminal (assuming the Conda package manager is installed):
 
 - conda create -n `[environment name]` python=3.9
 
