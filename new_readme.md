@@ -9,6 +9,16 @@ Before running `wwf.py`, make sure that you have the following installed:
 - wget
 - Python 3
 
+## Using a virtual environment
+
+To create a separate virtual environment for these scripts, the steps are the following (assuming the Conda package manager is installed):
+
+- conda create -n `[environment name]` python=3.9
+
+- conda activate `[environment name]`
+
+- pip install wikiextractor
+
 ## Running the script
 
 To run `wwf.py`, open a terminal and navigate to the directory where the script is located. Then, run the following command:
