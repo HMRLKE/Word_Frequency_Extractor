@@ -1,4 +1,4 @@
-name: wwf_test
+name: wfe
 channels:
   - defaults
 dependencies:
